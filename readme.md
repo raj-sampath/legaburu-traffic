@@ -1,4 +1,3 @@
-        1 file(s) copied.
 # Mission Impossible
 
 Solution for GeekTrust Mission Impossible on NodeJS

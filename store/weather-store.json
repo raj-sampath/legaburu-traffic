@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sunny",
+    "craterIncreasePercentage": -10
+  },
+  {
+    "name": "Rainy",
+    "craterIncreasePercentage": 20
+  },
+  {
+    "name": "Windy",
+    "craterIncreasePercentage": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "weather": "Sunny",
+    "allowedVehicles": ["Bike", "Tuktuk", "Car"]
+  },
+  {
+    "weather": "Rainy",
+    "allowedVehicles": ["Tuktuk", "Car"]
+  },
+  {
+    "weather": "Windy",
+    "allowedVehicles": ["Bike", "Car"]
+  }
+]

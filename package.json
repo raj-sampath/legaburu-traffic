@@ -1,0 +1,16 @@
+{
+  "name": "lengaburu-traffic",
+  "version": "1.0.0",
+  "description": "Solution for the Lengaburu Traffic problem from Geek Trust",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "jest"
+  },
+  "author": "Shyam Raj Sampath",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

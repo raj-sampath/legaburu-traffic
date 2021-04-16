@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Orbit1",
+        "distance": 18,
+        "numberOfCraters": 20,
+        "trafficSpeed": null
+    },
+    {
+        "name": "Orbit2",
+        "distance": 20,
+        "numberOfCraters": 10,
+        "trafficSpeed": null
+    }
+]

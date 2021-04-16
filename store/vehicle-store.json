@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Bike",
+    "speed": 10,
+    "craterCrossTime": 2,
+    "rank": 1
+  },
+  {
+    "name": "Tuktuk",
+    "speed": 12,
+    "craterCrossTime": 1,
+    "rank": 2
+  },
+  {
+    "name": "Car",
+    "speed": 20,
+    "craterCrossTime": 3,
+    "rank": 3
+  }
+]
